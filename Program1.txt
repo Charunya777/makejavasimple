@@ -1,0 +1,6 @@
+class A{
+
+	public Staic void main(String[]args){
+	System.out.println("java practice");
+}
+}
